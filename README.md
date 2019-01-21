@@ -26,5 +26,12 @@
 * Éditeur de formulaire etc...
 * Intégration dans l'environement Windows
 
+#### Visual Studio Community
+
+* Très similaire à la version Pro/Entreprise
+* Quelques fonctionnalités en moins
+* Dépendra de la taille de l'entreprise et du projet
+* Suffisant pour une petite équipe, 
+
 ### Base de données
 
