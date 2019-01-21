@@ -22,6 +22,9 @@
 * Console
 * Débugger
 * Licences assez chères (OS + VS)
+* Éditeur de base de données
+* Éditeur de formulaire etc...
+* 
 
 ### Base de données
 
