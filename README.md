@@ -24,7 +24,7 @@
 * Licences assez chères (OS + VS)
 * Éditeur de base de données
 * Éditeur de formulaire etc...
-* 
+* Intégration dans l'environement Windows
 
 ### Base de données
 
