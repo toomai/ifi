@@ -17,6 +17,10 @@
 * Plug&Play
 * Proche de la prod
 * Tout est centralisé
-* 
+* Métriques système
+* Intégration VCS
+* Console
+* Débugger
+
 ### Base de données
 
