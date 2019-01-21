@@ -21,6 +21,7 @@
 * Intégration VCS
 * Console
 * Débugger
+* Licences assez chères (OS + VS)
 
 ### Base de données
 
