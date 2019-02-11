@@ -41,4 +41,13 @@
 
 #### Mono
 
+* Tourne sous Linux
+* Economie de cout au niveau de la licence OS
+* Demande plus de paramétrage
+* Installation d'un serveur Web en plus du logiciel
+* Sur Linux: Plus simple de faire du déploiement automatisé
+* Plus compliqué de faire des développements orienté Windows avec les API
+
 #### JetBrains Rider
+
+* Pas réussi à le faire fonctionner
