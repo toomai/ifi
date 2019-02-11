@@ -32,9 +32,9 @@
 |Éditeur d'IHM (web ou pas) ||
 |Intégration dans l'environnement Windows||
 
-![Visual Studio](visualstudio.png)
+![Visual Studio](visualstudio.PNG)
 
-![Visual Studio](visualstudio2.png)
+![Visual Studio](visualstudio2.PNG)
 
 #### Visual Studio Community
 
@@ -51,7 +51,7 @@
 |Gratuit|Plus technique que "Pousser sur le bouton vert"|
 ||Pas d'intégration poussée des technologies ASP (Edition de formulaire, DB)|
 
-![Visual studio code](vsc1.png)
+![Visual studio code](vsc1.PNG)
 
 #### Mono
 
