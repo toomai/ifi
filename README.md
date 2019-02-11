@@ -14,8 +14,8 @@
 
 |**Pour**|**Contre**|
 |--------|----------|
-|Tout est inclus||
-|Plug&Play||
+|Tout est inclus|Très lourd: IIS, SQL Server Express|
+|Plug&Play| Licences assez chères (OS + VS)|
 |Proche de la prod||
 |Tout est centralisé||
 |Métrique système||
@@ -25,20 +25,6 @@
 |Éditeur de DB||
 |Éditeur d'IHM (web ou pas) ||
 |Intégration dans l'environnement Windows||
-
-* Tout est inclus: IIS, SQL Server
-* Très lourd (13 Go)
-* Plug&Play
-* Proche de la prod
-* Tout est centralisé
-* Métriques système
-* Intégration VCS
-* Console
-* Débugger
-* Licences assez chères (OS + VS)
-* Éditeur de base de données
-* Éditeur de formulaire etc...
-* Intégration dans l'environement Windows
 
 #### Visual Studio Community
 
