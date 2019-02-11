@@ -12,6 +12,20 @@
 
 #### Visual Studio
 
+|**Pour**|**Contre**|
+|--------|----------|
+|Tout est inclus||
+|Plug&Play||
+|Proche de la prod||
+|Tout est centralisé||
+|Métrique système||
+|Intégration VCS||
+|Console||
+|Débugger||
+|Éditeur de DB||
+|Éditeur d'IHM (web ou pas) ||
+|Intégration dans l'environnement Windows||
+
 * Tout est inclus: IIS, SQL Server
 * Très lourd (13 Go)
 * Plug&Play
