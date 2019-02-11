@@ -5,6 +5,7 @@
 |**OS**|**Pour**|**Contre**|
 |------|--------|----------|
 |Windows 10|Plus léger| Licence couteuse|
+|||Habitudes utilisateurs|
 |Windows Server|Proche de la production|Plus lourd|
 ||Bonne capacités de virtualisation|Licence encore plus couteuse|
 |Ubuntu|Gratuit|Ubuntu|
