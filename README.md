@@ -2,9 +2,14 @@
 
 ## Système d'exploitation
 
-* Windows 10: Plus léger et simple d'utilisation connu des développeurs
-* Windows Server 2019: Plus lourd a installer, plus proche d'un environement de production
-* Ubuntu: Plus simple, offre de support.
+|**OS**|**Pour**|**Contre**|
+|------|--------|----------|
+|Windows 10|Plus léger| Licence couteuse|
+|Windows Server|Proche de la production|Plus lourd|
+||Bonne capacités de virtualisation|Licence encore plus couteuse|
+|Ubuntu|Gratuit|Ubuntu|
+||Simplicité d'utilisation||
+||Support de la part de Cannonical||
 
 ## Environement de développement
 
