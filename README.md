@@ -31,13 +31,14 @@
 * Très similaire à la version Pro/Entreprise
 * Quelques fonctionnalités en moins
 * Dépendra de la taille de l'entreprise et du projet
-* Suffisant pour une petite équipe, 
+* Suffisant pour une petite équipe
 
 #### Visual Studio Code
+
+* Très bas niveau
+* Demande un peu plus de côté technique autre que "Pousser sur le bouton vert"
+* Pas d'intégration poussée des technologies ASP. (Edition de formulaire, base de données)
 
 #### Mono
 
 #### JetBrains Rider
-
-### Base de données
-
