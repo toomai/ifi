@@ -5,9 +5,9 @@
 |**OS**|**Pour**|**Contre**|
 |------|--------|----------|
 |Windows 10|Plus léger| Licence couteuse|
-|||Habitudes utilisateurs|
+||Habitudes utilisateurs||
 |Windows Server|Proche de la production|Plus lourd|
-||Bonne capacités de virtualisation|Licence encore plus couteuse|
+||Bonne capacités de virtualisation  (HyperV)|Licence encore plus couteuse|
 |Ubuntu|Gratuit|Ubuntu|
 ||Simplicité d'utilisation||
 ||Support de la part de Cannonical||
@@ -34,16 +34,18 @@
 
 #### Visual Studio Community
 
-* Très similaire à la version Pro/Entreprise
-* Quelques fonctionnalités en moins
-* Dépendra de la taille de l'entreprise et du projet
-* Suffisant pour une petite équipe
+|**Pour**|**Contre**|
+|--------|----------|
+|Très similaire à la version Pro/Ent|Quelques fonctionnalités en moins|
+|Suffisant pour une petite équipe||
 
 #### Visual Studio Code
 
-* Très bas niveau
-* Demande un peu plus de côté technique autre que "Pousser sur le bouton vert"
-* Pas d'intégration poussée des technologies ASP. (Edition de formulaire, base de données)
+|**Pour**|**Contre**|
+|--------|----------|
+|Léger|Très bas niveau|
+|Gratuit|Plus technique que "Pousser sur le bouton vert"|
+||Pas d'intégration poussée des technologies ASP (Edition de formulaire, DB)|
 
 #### Mono
 
