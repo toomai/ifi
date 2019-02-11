@@ -33,5 +33,11 @@
 * Dépendra de la taille de l'entreprise et du projet
 * Suffisant pour une petite équipe, 
 
+#### Visual Studio Code
+
+#### Mono
+
+#### JetBrains Rider
+
 ### Base de données
 
