@@ -33,6 +33,7 @@
 |Intégration dans l'environnement Windows||
 
 ![Visual Studio](visualstudio.png)
+
 ![Visual Studio](visualstudio2.png)
 
 #### Visual Studio Community
@@ -51,6 +52,7 @@
 ||Pas d'intégration poussée des technologies ASP (Edition de formulaire, DB)|
 
 ![Visual studio code](vsc1.png)
+
 #### Mono
 
 |**Pour**|**Contre**|
