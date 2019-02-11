@@ -4,7 +4,7 @@
 
 * Windows 10: Plus léger et simple d'utilisation
 * Windows Server 2019: Plus lourd a installer, plus proche d'un environement de production
-* Ubuntu: 
+* Ubuntu: Plus simple, offre de support.
 
 ## Environement de développement
 
